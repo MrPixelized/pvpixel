@@ -1,0 +1,17 @@
+name = "pvpixel"
+mc_version = "1.12.2"
+
+[jar]
+type = "paper"
+
+[variables]
+PORT = "25565"
+
+[launcher]
+eula_args = true
+nogui = false
+preset_flags = "aikars"
+
+[worlds.world]
+
+[options]
