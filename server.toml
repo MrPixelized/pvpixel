@@ -2,14 +2,15 @@ name = "pvpixel"
 mc_version = "1.12.2"
 
 [jar]
-type = "paper"
+type = "url"
+url = "https://piston-data.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar"
 
 [variables]
 PORT = "25565"
 
 [launcher]
 eula_args = true
-nogui = false
+nogui = true
 preset_flags = "aikars"
 
 [worlds.world]
